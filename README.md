@@ -1,19 +1,15 @@
 <h1 align="center">Hi, I'm Hamza Rafique</h1>
 <h3 align="center">A passionate flutter developer </h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/hamzarafique45/hamzarafique45/blob/main/flutter.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/hamzeedev/hamzeedev/blob/main/flutter.gif">
 
-<p align="left"> <a href="https://twitter.com/hamza_rafique45" target="blank"><img src="https://img.shields.io/twitter/follow/hamza_rafique45?logo=twitter&style=for-the-badge" alt="hamza_rafique45" /></a> </p>
-
-- 🌱 I’m currently learning **Flutter**
-
-- 💬 Ask me about **Flutter**
+<p align="left"> <a href="https://twitter.com/hamzeedev" target="blank"><img src="https://img.shields.io/twitter/follow/hamzeedev?logo=twitter&style=for-the-badge" alt="hamzeedev" /></a> </p>
 
 - 📫 How to reach me **hamzarafiqramay4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hamzarafique45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamza_rafique45" height="30" width="40" /></a>
-<a href="https://instagram.com/hamzarafique_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamza_rafique45" height="30" width="40" /></a>
+<a href="https://twitter.com/hamzeedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamzeedev" height="30" width="40" /></a>
+<a href="https://instagram.com/hamzeedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamzeedev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
