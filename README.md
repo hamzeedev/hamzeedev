@@ -3,7 +3,7 @@
 <thead>
   <tr>
     <th rowspan="2">
-      <img align="left" width="320" alt="HI" src="https://github.com/hamzeedev/hamzeedev/blob/main/assets/hi.jpeg" />
+      <img align="left" width="320" alt="HI" src="assets/hi_emoji.PNG" />
     </th >
     <th align="left">
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A200E6A7&width=435&lines=I+am+Hamza+Rafique;Happy+to+see+you+here+%F0%9F%98%8A" alt="Typing SVG" /></a>
@@ -58,7 +58,7 @@
 
 - 🔭 &nbsp; I’m currently working on **TYAMO APP IN FLUTTER**
 - 🤝 &nbsp; I'm looking for a **Team** for the Flutter Development
-- 🌱 &nbsp; I’m currently learning **Flutter** and **API DEVELOPMENT**
+- 🌱 &nbsp; I’m currently learning **Flutter** and **Python** for ML & DS
 - 👨🏻‍💻 &nbsp; Most of my projects are available on Git Hub
 - 💬 &nbsp; Ask me about anything tech-related, I am happy to help
 
