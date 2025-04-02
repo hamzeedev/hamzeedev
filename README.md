@@ -66,20 +66,16 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <a href="https://www.programiz.com/cpp-programming" target="_blank"><img style="margin: 10px" src="icons/cpp.svg" alt="CPP" height="42px" /></a>
-
 <a href="https://www.w3schools.com/html/"             target="_blank"><img style="margin: 10px" src="icons/html.svg"         alt="HTML 5"    height="42px" /></a>
 <a href="https://www.w3schools.com/css/css_intro.asp" target="_blank"><img style="margin: 10px" src="icons/css.svg"          alt="CSS"       height="42px" /></a>
 <a href="https://www.w3schools.com/css/css_intro.asp" target="_blank"><img style="margin: 10px" src="icons/getbootstrap.svg" alt="BootStrap" height="42px" /></a>
-
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="icons/figma.svg" alt="Figma" height="42px" /></a>
-
 <a href="https://flutter.dev/"         target="_blank"><img style="margin: 10px" src="icons/flutter.svg"  alt="Flutter"  height="42px" /></a>
 <a href="https://dart.dev/"            target="_blank"><img style="margin: 10px" src="icons/dart.svg"     alt="Dart"     height="42px" /></a>
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="icons/firebase.svg" alt="Firebase" height="42px" /></a>
 <a href="icons/ios.svg"                target="_blank"><img style="margin: 10px" src="icons/ios.svg"      alt="iOS"      height="42px" /></a>
 <a href="icons/android.svg"            target="_blank"><img style="margin: 10px" src="icons/android.svg"  alt="Android"  height="42px" /></a>
 <a href="https://git-scm.com/"         target="_blank"><img style="margin: 10px" src="icons/git.svg"      alt="Git"      height="42px" /></a>
-
 <a href="https://www.python.org" target="_blank"><img style="margin: 10px" src="icons/python.svg" alt="Python" height="42px" /></a>
 
 
