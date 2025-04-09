@@ -77,6 +77,7 @@
 <a href="icons/android.svg"            target="_blank"><img style="margin: 10px" src="icons/android.svg"  alt="Android"  height="42px" /></a>
 <a href="https://git-scm.com/"         target="_blank"><img style="margin: 10px" src="icons/git.svg"      alt="Git"      height="42px" /></a>
 <a href="https://www.python.org" target="_blank"><img style="margin: 10px" src="icons/python.svg" alt="Python" height="42px" /></a>
+<a href="none"                   target="_blank"><img style="margin: 10px" src="icons/xd.svg"     alt="Adobe XD" height="42px" /></a>
 
 
 
