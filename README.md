@@ -56,7 +56,7 @@
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **TYAMO APP IN FLUTTER**
+- 🔭 &nbsp; I’m currently working on **LOYZO APP IN FLUTTER**
 - 🤝 &nbsp; I'm looking for a **Team** for the Flutter Development
 - 🌱 &nbsp; I’m currently learning **Flutter** and **Python** for ML & DS
 - 👨🏻‍💻 &nbsp; Most of my projects are available on Git Hub
